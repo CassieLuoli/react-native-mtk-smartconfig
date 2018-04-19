@@ -4,7 +4,7 @@
 
 ## Announcement
 
-Not finished yet. Still under development. 
+Not finished yet. Android module is done but iOS is still under development. 
 
 Smart config can be used for MT7687，MT7697, MT2523.
 
