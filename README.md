@@ -1,6 +1,17 @@
 
 # react-native-mtk-smartconfig
 
+
+## Announcement
+
+Not finished yet. Still under development. 
+
+Smart config can be used for MT7687，MT7697, MT2523.
+
+A wrapped module with sdk for normal public version : LinkIt_SDK_V4.6.1_public
+
+https://docs.labs.mediatek.com/resource/mt7687-mt7697/zh_tw/downloads
+
 ## Getting started
 
 `$ npm install react-native-mtk-smartconfig --save`
